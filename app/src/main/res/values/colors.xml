@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#55acee</color>
+    <color name="colorPrimary">#4d94ff</color>
+    <color name="colorPrimaryDark">#0066ff</color>
+    <color name="colorAccent">#003d99</color>
+    <color name="cursorAccent">#003380</color>
+
+    <style name="TitleText">
+        <item name="android:textColor">#ffff0000</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+</resources>
